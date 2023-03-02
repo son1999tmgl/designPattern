@@ -1,0 +1,1 @@
+- viết hàm lấy ra danh sách giá của 1 sản phẩm ứng với mỗi mã giảm giá 
